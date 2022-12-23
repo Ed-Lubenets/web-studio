@@ -1,0 +1,7 @@
+@media screen and (min-width: 481px) and (max-width: 767px) {
+    .classForaMediumScreen {
+      background: #cc0000;
+      width: 30%;
+      float: right;
+    }
+  }
